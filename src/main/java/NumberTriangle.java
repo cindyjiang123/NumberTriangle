@@ -53,17 +53,6 @@ public class NumberTriangle {
         return root;
     }
 
-
-    /**
-     * [not for credit]
-     * Set the root of this NumberTriangle to be the max path sum
-     * of this NumberTriangle, as defined in Project Euler problem 18.
-     * After this method is called, this NumberTriangle should be a leaf.
-     *
-     * Hint: think recursively and use the idea of partial tracing from first year :)
-     *
-     * Note: a NumberTriangle contains at least one value.
-     */
     public void maxSumPath() {
         // for fun [not for credit]:
     }
