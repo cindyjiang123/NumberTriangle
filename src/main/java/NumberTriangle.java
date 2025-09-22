@@ -134,7 +134,6 @@ public class NumberTriangle {
                 row.add(new NumberTriangle(Integer.parseInt(strings[i])));
             }
             triangleRows.add(row);
-            //read the next line
             line = br.readLine();
         }
         for (int i = 0; i < triangleRows.size() - 1; i++) {
